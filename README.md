@@ -1,2 +1,2 @@
 # PickMeUpAI
-Where former Athletes can build community 
+Where former athletes can build community 
