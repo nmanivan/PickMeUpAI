@@ -1,5 +1,8 @@
 # PickMeUpAI - Landing Page & Waitlist
 
+https://trypickmeupai.com/
+- Actually, I don't think we need heroku for a landing page website. Unless we have some sort of backend, then maybe it's okay.  Actually it could swing both ways, I will probably include some features in this landing page soo... yeah heroku would be needed.
+
 Where former athletes can build community and rediscover their competitive edge.
 
 ## 🚀 Features
